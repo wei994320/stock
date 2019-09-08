@@ -12,3 +12,8 @@ publishTime = time.strftime("%Y-%m-%d", array)
 print(publishTime)
 
 print(publishTime,'张三')
+print(publishTime,'张三')
+print(publishTime,'张三')
+print(publishTime,'张三')
+print(publishTime,'张三')
+print(publishTime,'张三')
