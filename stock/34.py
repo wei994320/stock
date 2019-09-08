@@ -10,3 +10,5 @@ time1 = '2017年7月19日'
 array = time.strptime(time1, u"%Y年%m月%d日")
 publishTime = time.strftime("%Y-%m-%d", array)
 print(publishTime)
+
+print(publishTime,'张三')
